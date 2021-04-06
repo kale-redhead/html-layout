@@ -1,0 +1,37 @@
+body{
+
+}
+
+.row-1{
+    background-color: rgb(192, 192, 192);
+    box-sizing: border-box;
+    padding:15px;
+}
+.square{
+    background-color: rgb(63, 86, 185);
+    width:80px;
+    height:80px;
+    display: inline-block;
+}
+
+.row-2{
+
+}
+
+.row-2 h1{
+
+}
+
+.row-3{
+    background-color: rgb(63, 86, 185);
+    box-sizing: border-box;
+}
+.row-4{
+    
+}
+.row-5{
+
+}
+.row-6{
+
+}

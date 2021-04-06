@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: antiquewhite;
+    width: 10%;
+    height: 100vh;
+}
+
+.header{
+    width:100vh;
+    height: 10vh;
+    background-color: gray;
+}
+
+.content{
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    background-color: honeydew;
+}
+
+.footer{
+    margin: 0 auto;
+    width: 75vw;
+    height: 20vh;
+    align-content: center;
+}
